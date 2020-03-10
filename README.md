@@ -9,5 +9,5 @@ Necessary UML Diagram for Cloth Mart project
 	- **Registration Number** - 16BCE1075 
 	- **Email Id** - kothuriphanindra1999@gmail.com
 - K Arvindh
-	- **Registration Number** - 16BEC1219
+	-**Registration Number** - 16BEC1219
 	-**Email Id** - karavindh1998@gmail.com
