@@ -8,6 +8,6 @@ Necessary UML Diagram for Cloth Mart project
 - Sai Phanindra Kothuri 
 	- **Registration Number** - 16BCE1075 
 	- **Email Id** - kothuriphanindra1999@gmail.com
-- K Arvindh
+- K Aravindh
 	- **Registration Number** - 16BEC1219
 	- **Email Id** - karavindh1998@gmail.com
